@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mines_kotlin_mvp</string>
+    <string name="high_score">High Score: 0</string>
+    <string name="score">Відкриті: %1$d</string>
+    <string name="score_default">Score: %d</string>
+    <string name="high_score_text">Клітинки: %1$d</string>
+    <string name="time">Час: %d</string>
+</resources>
